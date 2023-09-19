@@ -1,6 +1,6 @@
 # flutterpractice
 
-A new Flutter project.
+flutter 프로젝트 파일 입니다.
 
 ## UI 연습
 

@@ -133,8 +133,9 @@ State 클래스 에게 데이터가 변경되었다고 알리는 함수이다. (
     setState(() {});
   }
 ```
-![카운터](https://github.com/thingineeer/FLUTTER-WIL/assets/88179341/ce5532d9-8326-490c-b7af-b12912854ecd)
-
+<p align="left">
+<img src = "https://github.com/thingineeer/FLUTTER-WIL/assets/88179341/ce5532d9-8326-490c-b7af-b12912854ecd" width="35%" height="35%" >
+</p>
 
 ---
 
@@ -306,9 +307,11 @@ StatelessWidget 인 MyLargeTitle 에서 `theme` 값에 접근하는 것을 원�
 직접 접근하기 위해 `BulidContext` 를 이용해야한다.
 
 이걸 알기 위해서는 위젯트리를 이해해야함
+
 <br>
 
-![Untitled](Stateful%20Widgets%208f5166e0f7764a4c8f3d586b34ce3e2c/Untitled.png)
+<img width="428" alt="image" src="https://github.com/thingineeer/FLUTTER-WIL/assets/88179341/b8b88561-be01-4414-8ccc-aea7e0e982ed">
+
 
 이 부분이 Flutter가 App을 어떻게 렌더링 하는지 보여주는 그림
 
@@ -318,9 +321,11 @@ App클래스는 보다시피 수많은 자식 요소를 가지고
 
 현재 앱의 구조를 보면 
 
-![Untitled](Stateful%20Widgets%208f5166e0f7764a4c8f3d586b34ce3e2c/Untitled%201.png)
+<img width="337" alt="image" src="https://github.com/thingineeer/FLUTTER-WIL/assets/88179341/f85b92b6-f019-4ba5-994d-2fbcb31905f7">
+
 
 <br>
+
 이렇게 구성되어 있다.
 
 우리가 하고 싶은 것은 MyLargeTitle이 부모 요소 정보에 접근하는 것임
